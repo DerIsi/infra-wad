@@ -1,0 +1,12 @@
+*.backup
+*.tfstate
+.terraform
+.DS_Store
+*.env
+*.idea
+*.iml
+deploy/kong/kong/charts/*.tgz
+.terragrunt-cache/
+.env.*
+.infracost
+env/dev/databases/provider.tf
